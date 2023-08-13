@@ -97,16 +97,16 @@ section {
 }
 
 #left-01 {
-  background-image: url("../image/tere sang yara.jpg");
+  background-image: url("image/tere sang yara.jpg");
 }
 #left-02 {
-  background-image: url("../image/rollinginthedeep.jpeg");
+  background-image: url("image/rollinginthedeep.jpeg");
 }
 #right-01 {
-  background-image: url("../image/tera ban jaunga.jpg");
+  background-image: url("image/tera ban jaunga.jpg");
 }
 #right-02 {
-  background-image: url("../image/storyofmylife.jpg");
+  background-image: url("image/storyofmylife.jpg");
 }
 
 .pseudo-left {
@@ -253,22 +253,22 @@ section {
 }
 
 #artist-img1 {
-  background-image: url("../image/PA1.jpg");
+  background-image: url("image/PA1.jpg");
 }
 #artist-img2 {
-  background-image: url("../image/PA2.jpeg");
+  background-image: url("image/PA2.jpeg");
 }
 #artist-img3 {
-  background-image: url("../image/PA3.jpeg");
+  background-image: url("image/PA3.jpeg");
 }
 #artist-img4 {
-  background-image: url("../image/PA4.jpg");
+  background-image: url("image/PA4.jpg");
 }
 #artist-img5 {
-  background-image: url("../image/PA5.jpeg");
+  background-image: url("image/PA5.jpeg");
 }
 #artist-img6 {
-  background-image: url("../image/PA6.jpg");
+  background-image: url("image/PA6.jpg");
 }
 
 .artist-image-container {
@@ -331,22 +331,22 @@ artist-card-anchor:hover > .artist-img-container i {
   /* border: 0.1em solid white; */
 }
 #radio-point-01 {
-  background-image: url("../image/retro.jpg");
+  background-image: url("image/retro.jpg");
 }
 #radio-point-02 {
-  background-image: url("../image/road.jpg");
+  background-image: url("image/road.jpg");
 }
 #radio-point-03 {
-  background-image: url("../image/pop.jpeg");
+  background-image: url("image/pop.jpeg");
 }
 #radio-point-04 {
-  background-image: url("../image/workout.jpg");
+  background-image: url("image/workout.jpg");
 }
 #radio-point-05 {
-  background-image: url("../image/love.jpg");
+  background-image: url("image/love.jpg");
 }
 #radio-point-06 {
-  background-image: url("../image/chill.jpeg");
+  background-image: url("image/chill.jpeg");
 }
 
 .radio-points p {
